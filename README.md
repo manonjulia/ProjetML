@@ -20,7 +20,7 @@ notebooks Jupyter (un en R et un en Python).
 Travail à rendre: Comme livrable, chaque groupe déposera sur Moodle :
 - au plus tard le 27 Mai à 18H, un fichier zip contenant les deux notebooks Jupyter (R et Python),
 - au plus tard la veille de la soutenance à 18 H, les slides de l’exposé au format pdf.
-- 
+  
 Soutenances orales les 28 et 31 Mai 2024: 20 minutes de présentation, puis 5 à 10 minutes de questions.
 
 L’exposé doit comprendre une introduction présentant les données ainsi que toutes les transformations que vous
